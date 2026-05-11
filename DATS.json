@@ -1,0 +1,83 @@
+{
+    "title": "raw_PNC007-PNC009",
+    "description": "",
+    "creators": [
+        {
+            "name": "Multiple Contributors"
+        }
+    ],
+    "version": "2025-03-31T21:41:48.508437",
+    "types": [
+        {
+            "information": {
+                "value": "dataset"
+            }
+        }
+    ],
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "N/A"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 33.36,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/qts9m/"
+            },
+            "formats": [
+                "N/A"
+            ]
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "source",
+            "values": [
+                {
+                    "value": "osf"
+                }
+            ]
+        },
+        {
+            "category": "osf_node_id",
+            "values": [
+                {
+                    "value": "qts9m"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "9"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        }
+    ]
+}
